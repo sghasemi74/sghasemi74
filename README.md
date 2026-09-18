@@ -16,7 +16,6 @@ I enjoy turning designs into clean and structured user interfaces and paying att
 - JavaScript
 - DOM & Events
 - Git & GitHub
-- VS Code
 - Figma
 
 ## 📂 Featured Projects
