@@ -20,12 +20,13 @@ I enjoy turning designs into clean and structured user interfaces and paying att
 
 ## 📂 Featured Projects
 
-- Furnivo — Furniture website UI
-- CBT Movies — Movie website UI built with Tailwind CSS
-- Community Login Page — Login page implemented from a Figma design
-- Calculator — Calculator built with JavaScript and Tailwind CSS
-- HUB Fashion — Clothing store website built with HTML & CSS
+- [Furnivo](https://github.com/sghasemi74/Furnivo) — Furniture website UI
+- [CBT Movies](https://github.com/sghasemi74/CBT-Movies) — Movie website UI built with HTML and Tailwind CSS
+- [Community Login Page](https://github.com/sghasemi74/Login-Page-Community) — Login page implemented from a Figma design
+- [Calculator](https://github.com/sghasemi74/calculator) — Calculator built with JavaScript and Tailwind CSS
+- [FashionHUB](https://github.com/sghasemi74/FashionHub) — Clothing store website built with HTML5 and CSS3, using Flexbox and CSS Grid
 
+  
 ## 📚 Learning Journey
 
 - Currently learning JavaScript
